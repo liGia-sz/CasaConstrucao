@@ -9,21 +9,43 @@
 <body>
   <div class="container mt-5">
     <h2>Contato</h2>
-    <form>
+    <form id="form-contato">
       <div class="mb-3">
         <label for="nome" class="form-label">Nome</label>
-        <input type="text" class="form-control" id="nome" placeholder="Seu nome">
+        <input type="text" class="form-control" name="nome" id="nome" required>
       </div>
       <div class="mb-3">
         <label for="email" class="form-label">E-mail</label>
-        <input type="email" class="form-control" id="email" placeholder="Seu e-mail">
+        <input type="email" class="form-control" name="email" id="email" required>
       </div>
       <div class="mb-3">
         <label for="mensagem" class="form-label">Mensagem</label>
-        <textarea class="form-control" id="mensagem" rows="4" placeholder="Digite sua mensagem aqui..."></textarea>
+        <textarea class="form-control" name="mensagem" id="mensagem" rows="4" required></textarea>
       </div>
       <button type="submit" class="btn btn-primary">Enviar</button>
     </form>
   </div>
+
+  <script>
+    const form = document.getElementById('form-contato');
+
+    form.addEventListener('submit', async function (e) {
+      e.preventDefault(); // Evita que o formulário seja enviado do jeito tradicional
+
+      const formData = new FormData(form);
+
+      const response = await fetch('/contato', {
+        method: 'POST',
+        body: formData
+      });
+
+      if (response.ok) {
+        alert('Mensagem enviada com sucesso!');
+        form.reset(); // limpa o formulário
+      } else {
+        alert('Erro ao enviar mensagem. Tente novamente.');
+      }
+    });
+  </script>
 </body>
 </html>
