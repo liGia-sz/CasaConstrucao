@@ -1,7 +1,8 @@
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
-app.UseStaticFiles(); // ESSENCIAL para servir arquivos da wwwroot
+app.UseDefaultFiles(); // Serve index.html por padrão
+app.UseStaticFiles(); // Permite servir arquivos da pasta wwwroot
 
 app.MapPost("/contato", async (HttpContext context) =>
 {
@@ -39,6 +40,11 @@ app.MapPost("/carreira", async (HttpContext context) =>
     Console.WriteLine($"[CARREIRA] {nome} ({email}) enviou o currículo: {arquivo.FileName}");
 
     return Results.Content("<script>alert('Currículo enviado com sucesso!'); window.history.back();</script>", "text/html");
+});
+
+app.MapGet("/index", async context =>
+{
+await context.Response.SendFileAsync("wwwroot/index.html");
 });
 
 app.Run();

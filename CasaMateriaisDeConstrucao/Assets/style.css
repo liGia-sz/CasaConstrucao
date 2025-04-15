@@ -1,7 +1,8 @@
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f8f9fa;
-}
 h1, h2 {
     color: #343a40;
 }
+
+.seta-escura svg {
+    fill: black !important; /* Use !important para garantir a prioridade sobre outros estilos */
+}
+
