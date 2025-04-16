@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4QuxzPkkrTH6vkcHdGRvfw6SPqRAyz2TsVYdAg++Xmg=",
+  "Hash": "fQWh7+XQhsO04lO1IlmwCqFGDlhpsv+hF5zQwTv64n0=",
   "Source": "CasaMateriaisDeConstrucao",
   "BasePath": "_content/CasaMateriaisDeConstrucao",
   "Mode": "Default",
@@ -91,25 +91,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
-    },
-    {
-      "Identity": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\indexx.png",
-      "SourceId": "CasaMateriaisDeConstrucao",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\",
-      "BasePath": "_content/CasaMateriaisDeConstrucao",
-      "RelativePath": "indexx.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\indexx.png"
     },
     {
       "Identity": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\produtos.html",

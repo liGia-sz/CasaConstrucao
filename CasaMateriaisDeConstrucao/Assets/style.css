@@ -5,4 +5,4 @@ h1, h2 {
 .seta-escura svg {
     fill: black !important; /* Use !important para garantir a prioridade sobre outros estilos */
 }
-
+  
