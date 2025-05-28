@@ -9,8 +9,52 @@
       "PackagePath": "staticwebassets\\contato.html"
     },
     {
-      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\indexx.png",
-      "PackagePath": "staticwebassets\\img\\indexx.png"
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\historia.html",
+      "PackagePath": "staticwebassets\\historia.html"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Banner-historia.png",
+      "PackagePath": "staticwebassets\\img\\Banner-historia.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Carrossel-1.png",
+      "PackagePath": "staticwebassets\\img\\Carrossel-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Carrossel-2.png",
+      "PackagePath": "staticwebassets\\img\\Carrossel-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Carrossel-3.png",
+      "PackagePath": "staticwebassets\\img\\Carrossel-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Logo Barra .png",
+      "PackagePath": "staticwebassets\\img\\Logo Barra .png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Logo Site.png",
+      "PackagePath": "staticwebassets\\img\\Logo Site.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\loja.png",
+      "PackagePath": "staticwebassets\\img\\loja.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\obra 1.png",
+      "PackagePath": "staticwebassets\\img\\obra 1.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\obra 2.png",
+      "PackagePath": "staticwebassets\\img\\obra 2.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\piso-icon.png",
+      "PackagePath": "staticwebassets\\img\\piso-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\telha-icon.png",
+      "PackagePath": "staticwebassets\\img\\telha-icon.png"
     },
     {
       "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\index.html",
