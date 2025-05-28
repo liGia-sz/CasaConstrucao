@@ -28,13 +28,22 @@
     </div>
     <nav class="navbar navbar-expand-lg navbar bg border-top border-bottom border-dark">
       <div class="container-fluid d-flex justify-content-center">
-          <ul class="navbar-nav mb-2 mb-lg-0 justify-content-center">
-            <a class="navbar-brand" href="index.html">Casa da Construção</a>
+        <!-- Botão do accordion para telas pequenas -->
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarAccordion" aria-controls="navbarAccordion" aria-expanded="false" aria-label="Alternar navegação">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <!-- Links da navbar dentro do collapse -->
+        <div class="collapse navbar-collapse justify-content-center" id="navbarAccordion">
+          <ul class="navbar-nav mb-2 mb-lg-0">
+            <li>
+              <a class="navbar-brand" href="index.html">Casa da Construção</a>
+            </li>
             <li class="nav-item"><a class="nav-link" href="historia.html">Nossa História</a></li>
-              <li class="nav-item"><a class="nav-link" href="produtos.html">Produtos</a></li>
-              <li class="nav-item"><a class="nav-link" href="contato.html">Contato</a></li>
-              <li class="nav-item"><a class="nav-link" href="carreira.html">Carreira</a></li>
+            <li class="nav-item"><a class="nav-link" href="produtos.html">Produtos</a></li>
+            <li class="nav-item"><a class="nav-link" href="contato.html">Contato</a></li>
+            <li class="nav-item"><a class="nav-link" href="carreira.html">Carreira</a></li>
           </ul>
+        </div>
       </div>
     </nav>
   </div>
