@@ -1,3 +1,9 @@
+body {
+    font-family: 'Hammersmith One', sans-serif;
+    background-color:rgb(255, 252, 248);
+    color: #343a40;
+}
+
 h1, h2 {
     color: #343a40;
 }
@@ -5,4 +11,4 @@ h1, h2 {
 .seta-escura svg {
     fill: black !important; /* Use !important para garantir a prioridade sobre outros estilos */
 }
-  
+

@@ -13,8 +13,28 @@
       "PackagePath": "staticwebassets\\historia.html"
     },
     {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Areia.png",
+      "PackagePath": "staticwebassets\\img\\Areia.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Argamassa.png",
+      "PackagePath": "staticwebassets\\img\\Argamassa.png"
+    },
+    {
       "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Banner-historia.png",
       "PackagePath": "staticwebassets\\img\\Banner-historia.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Cabos Elétricos.png",
+      "PackagePath": "staticwebassets\\img\\Cabos Elétricos.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Caixa D Água 1.000L.png",
+      "PackagePath": "staticwebassets\\img\\Caixa D Água 1.000L.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Caixa D Água Polietileno 500L.png",
+      "PackagePath": "staticwebassets\\img\\Caixa D Água Polietileno 500L.png"
     },
     {
       "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Carrossel-1.png",
@@ -29,12 +49,160 @@
       "PackagePath": "staticwebassets\\img\\Carrossel-3.png"
     },
     {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Cimento Queimado.png",
+      "PackagePath": "staticwebassets\\img\\Cimento Queimado.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Cimento.png",
+      "PackagePath": "staticwebassets\\img\\Cimento.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Conexões Hidráulicas.png",
+      "PackagePath": "staticwebassets\\img\\Conexões Hidráulicas.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Eletrodutos.png",
+      "PackagePath": "staticwebassets\\img\\Eletrodutos.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Escalímetro.png",
+      "PackagePath": "staticwebassets\\img\\Escalímetro.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Esmate1.png",
+      "PackagePath": "staticwebassets\\img\\Esmate1.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Esmate2.png",
+      "PackagePath": "staticwebassets\\img\\Esmate2.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Esquadro.png",
+      "PackagePath": "staticwebassets\\img\\Esquadro.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Fios Elétricos.png",
+      "PackagePath": "staticwebassets\\img\\Fios Elétricos.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Interruptores.png",
+      "PackagePath": "staticwebassets\\img\\Interruptores.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Janela Dobrável.png",
+      "PackagePath": "staticwebassets\\img\\Janela Dobrável.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Janela de Abrir.png",
+      "PackagePath": "staticwebassets\\img\\Janela de Abrir.png"
+    },
+    {
       "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Logo Barra .png",
       "PackagePath": "staticwebassets\\img\\Logo Barra .png"
     },
     {
       "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Logo Site.png",
       "PackagePath": "staticwebassets\\img\\Logo Site.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Madeira.png",
+      "PackagePath": "staticwebassets\\img\\Madeira.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Paquímetro.png",
+      "PackagePath": "staticwebassets\\img\\Paquímetro.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Pastilhas.png",
+      "PackagePath": "staticwebassets\\img\\Pastilhas.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Perfil de Alumínio.png",
+      "PackagePath": "staticwebassets\\img\\Perfil de Alumínio.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Pisos.png",
+      "PackagePath": "staticwebassets\\img\\Pisos.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Porcelanato.png",
+      "PackagePath": "staticwebassets\\img\\Porcelanato.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Porta de Abrir.png",
+      "PackagePath": "staticwebassets\\img\\Porta de Abrir.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Porta de Correr.png",
+      "PackagePath": "staticwebassets\\img\\Porta de Correr.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Registros.png",
+      "PackagePath": "staticwebassets\\img\\Registros.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Revestimento Vinílico.png",
+      "PackagePath": "staticwebassets\\img\\Revestimento Vinílico.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Revestimento de Pedra.png",
+      "PackagePath": "staticwebassets\\img\\Revestimento de Pedra.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Suta e Tranferidor.png",
+      "PackagePath": "staticwebassets\\img\\Suta e Tranferidor.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Tabelas de Aço.png",
+      "PackagePath": "staticwebassets\\img\\Tabelas de Aço.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Taqueômetro.png",
+      "PackagePath": "staticwebassets\\img\\Taqueômetro.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Telha.png",
+      "PackagePath": "staticwebassets\\img\\Telha.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Tijolo.png",
+      "PackagePath": "staticwebassets\\img\\Tijolo.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Tinta1.png",
+      "PackagePath": "staticwebassets\\img\\Tinta1.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Tinta2.png",
+      "PackagePath": "staticwebassets\\img\\Tinta2.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Tomadas.png",
+      "PackagePath": "staticwebassets\\img\\Tomadas.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Torneiras.png",
+      "PackagePath": "staticwebassets\\img\\Torneiras.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Trenas.png",
+      "PackagePath": "staticwebassets\\img\\Trenas.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Tubos Hidráulicos.png",
+      "PackagePath": "staticwebassets\\img\\Tubos Hidráulicos.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Tubos.png",
+      "PackagePath": "staticwebassets\\img\\Tubos.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Verniz1.png",
+      "PackagePath": "staticwebassets\\img\\Verniz1.png"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\Verniz2.png",
+      "PackagePath": "staticwebassets\\img\\Verniz2.png"
     },
     {
       "Id": "C:\\Users\\Alunos\\Documents\\LÍGIA (MANHÃ)\\CasaConstrucao\\CasaMateriaisDeConstrucao\\wwwroot\\img\\loja.png",
