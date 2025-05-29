@@ -12,3 +12,41 @@ h1, h2 {
     fill: black !important; /* Use !important para garantir a prioridade sobre outros estilos */
 }
 
+/* Adicione ao seu style.css */
+.carousel-control-prev,
+.carousel-control-next {
+  width: 5%;
+  opacity: 1;
+  /* Remova left: 0; e right: 0; daqui */
+}
+
+.carousel-control-prev {
+  left: 0; /* Mantém só aqui */
+  /* Remova left: -2.5%; */
+}
+
+.carousel-control-next {
+  right: 0; /* Mantém só aqui */
+  /* Remova right: -2.5%; */
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: #3f2f21c2; /* Deixa a seta escura */
+  border-radius: 50%;
+}
+
+@media (max-width: 768px) {
+  .carousel-control-prev,
+  .carousel-control-next {
+    width: 10%;
+    left: 0;
+    right: 0;
+  }
+}
+
+.card .btn {
+  position: relative;
+  z-index: 2;
+}
+
